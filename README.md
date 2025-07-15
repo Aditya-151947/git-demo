@@ -1,2 +1,2 @@
 # git-demo
-its a demo of git
+its a demo of git.
